@@ -15,15 +15,6 @@ This is a simple web application that allows users to play the classic game of T
 - CSS
 - JavaScript
 
-## Getting Started
-
-1. Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/tic-tac-toe.git
-```
-
-2. Open the `index.html` file in your web browser to start playing Tic Tac Toe.
 
 ## How to Play
 
